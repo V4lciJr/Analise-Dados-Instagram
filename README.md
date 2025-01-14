@@ -14,7 +14,7 @@ Este projeto realizou uma análise exploratória e descritiva de uma base de dad
   - Análise estatística.
     
 ### Principais achados
-Todo o detalhe e comentárioas da análise, bem como suas conclusões encontram-se no notebook deste repositório
+Todos os detalhes e comentários da análise, bem como suas conclusões encontram-se no notebook deste repositório
 
 ### Tecnologias utilizadas
   - Python
